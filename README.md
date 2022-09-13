@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alphabethika-CodeHub.
-- 👀 I’m interested in Web 3.0.
-- 🌱 I’m currently learning PERN Stack.
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently Unreal 5 & Javascript Backend Programming.
 - 📫 How to reach me [LinkedIn].
 - 🐱 My Gitlab Account [Gitlab].
 
