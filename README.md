@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alphabethika-CodeHub.
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently Unreal 5 & Javascript Backend Programming.
+- 🌱 I’m currently Learning Both Unreal 5 & Javascript Backend Programming.
 - 📫 How to reach me [LinkedIn].
 - 🐱 My Gitlab Account [Gitlab].
 
